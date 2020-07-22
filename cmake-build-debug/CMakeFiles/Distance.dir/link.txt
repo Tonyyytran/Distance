@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Distance.dir/distanceDriver.cpp.o CMakeFiles/Distance.dir/distance.cpp.o  -o Distance.exe -Wl,--out-implib,libDistance.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
